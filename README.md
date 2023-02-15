@@ -20,6 +20,7 @@ Collection of resources and tools for ML engineering or research development
 - [Dust.tt](https://dust.tt/)
 
 ## Prompt-engineering
+- [Microsoft LMOps](https://www.infoq.com/news/2023/02/microsoft-lmops-tools/)
 - [Humanloop](https://humanloop.com/)
 - [Everyprompt](https://www.everyprompt.com/)
 
