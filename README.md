@@ -2,8 +2,13 @@
 Collection of resources and tools for ML engineering or research development
 
 ## LLMs
-- [OpenAI API](https://openai.com/api/)
+- [OpenAI GPT-3 API](https://openai.com/api/)
   - [Quickstart with Python example app](https://platform.openai.com/docs/quickstart/build-your-application) 
+- [OpenAI GPT-2 open-source](https://openai.com/blog/gpt-2-1-5b-release/)
+  - [HuggingFace API](https://huggingface.co/gpt2)
+  - [Official Python API](https://github.com/openai/gpt-2)
+  - [Simplified Python API](https://github.com/minimaxir/gpt-2-simple)
+  - [Dataset](https://github.com/openai/gpt-2-output-dataset)
 - [Cohere AI](https://cohere.ai/generate)  
 
 ## Q&A over documents
