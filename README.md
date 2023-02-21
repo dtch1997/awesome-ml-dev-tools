@@ -12,6 +12,7 @@ Collection of resources and tools for ML engineering or research development
 - [Cohere AI](https://cohere.ai/generate)  
 
 ## Q&A over documents
+- [Unstructured](https://github.com/Unstructured-IO/unstructured) - Python library for preprocessing of PDFs, images, HTML, Word documents etc.
 - [GPT Index](https://gpt-index.readthedocs.io/en/latest/index.html) for constructing index
 - [ColBertV2](https://github.com/stanford-futuredata/ColBERT) for searching index
 
